@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS clients (
+    id PRIMARY KEY,
+    name TEXT,
+    age INTEGER,
+    phone INTEGER
+);
